@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>org.codehaus.preon</groupId>
+        <groupId>io.github.cgi</groupId>
         <artifactId>preon</artifactId>
         <version>1.1-SNAPSHOT</version>
     </parent>
@@ -26,5 +26,6 @@
         <module>preon-sample-protobuf</module>
         <module>preon-sample-lucene</module>
         -->
+        <module>preon-sample-heapdump</module>
     </modules>
 </project>

@@ -13,7 +13,7 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>org.codehaus.preon</groupId>
+      <groupId>io.github.cgi</groupId>
       <artifactId>preon-binding</artifactId>
       <version>${version}</version>
     </dependency>

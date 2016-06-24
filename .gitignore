@@ -1,3 +1,5 @@
+.idea/
+preon-emitter/preon-emitter.iml
 target/
 atlassian-ide-plugin.xml
 preon-archetypes/preon-archetypes.iml
@@ -5,6 +7,7 @@ preon-archetypes/preon-simple-archetype/preon-simple-archetype.iml
 preon-binding/preon-binding.iml
 preon-el/preon-el.iml
 preon-io/preon-io.iml
+preon-samples/preon-sample-varlength-encoding/preon-sample-varlength-encoding.iml
 preon-samples/preon-sample-bmp/preon-sample-bmp.iml
 preon-samples/preon-sample-bson/pom.xml
 preon-samples/preon-sample-bytecode/preon-sample-bytecode.iml
@@ -15,3 +18,4 @@ preon.iml
 preon.ipr
 preon.iws
 preon-samples/preon-sample-rtp/preon-sample-rtp.iml
+preon-skin/preon-skin.iml

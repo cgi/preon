@@ -2,7 +2,7 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>org.codehaus.preon.archetypes</groupId>
+    <groupId>io.github.cgi</groupId>
     <artifactId>preon-archetypes</artifactId>
     <version>1.1-SNAPSHOT</version>
   </parent>
